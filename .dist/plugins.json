@@ -2144,6 +2144,15 @@
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/uk/bakainua/icon.png"
 	},
 	{
+		"id": "honeymanga",
+		"name": "Honey Manga",
+		"site": "https://honey-manga.com.ua",
+		"lang": "Українська",
+		"version": "1.0.0",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/ukrainian/HoneyManga.js",
+		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ukrainian/honeymanga/icon.png"
+	},
+	{
 		"id": "smakolykytl",
 		"name": "Смаколики",
 		"site": "https://smakolykytl.site/",
