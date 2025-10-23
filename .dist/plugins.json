@@ -5,7 +5,7 @@
 		"site": "https://ar-no.com/",
 		"lang": "‎العربية",
 		"version": "1.0.10",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/ArNovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/ArNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/arnovel/icon.png"
 	},
 	{
@@ -14,7 +14,7 @@
 		"site": "https://azoramoon.com/",
 		"lang": "‎العربية",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/Azora[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/Azora[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/azora/icon.png"
 	},
 	{
@@ -23,7 +23,7 @@
 		"site": "https://golden.rest/",
 		"lang": "‎العربية",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/dilartube.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/dilartube.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ar/dilartube/icon.png"
 	},
 	{
@@ -32,7 +32,7 @@
 		"site": "https://hizomanga.net/",
 		"lang": "‎العربية",
 		"version": "1.0.10",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/HizoManga[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/HizoManga[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/hizomanga/icon.png"
 	},
 	{
@@ -41,7 +41,7 @@
 		"site": "https://kolnovel.site/",
 		"lang": "‎العربية",
 		"version": "1.1.18",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/KolNovel[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/KolNovel[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/kolnovel/icon.png"
 	},
 	{
@@ -50,7 +50,7 @@
 		"site": "https://novel4up.com/",
 		"lang": "‎العربية",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/Novel4Up[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/Novel4Up[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/novel4up/icon.png"
 	},
 	{
@@ -59,7 +59,7 @@
 		"site": "https://novelsparadise.site/",
 		"lang": "‎العربية",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/NovelsParadise[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/NovelsParadise[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/novelsparadise/icon.png"
 	},
 	{
@@ -68,7 +68,7 @@
 		"site": "https://olaoe.cyou/",
 		"lang": "‎العربية",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/Olaoecyou[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/Olaoecyou[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/olaoe/icon.png"
 	},
 	{
@@ -77,7 +77,7 @@
 		"site": "https://rewayat.club/",
 		"lang": "‎العربية",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/rewayatclub.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/rewayatclub.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ar/rewayatclub/icon.png"
 	},
 	{
@@ -86,7 +86,7 @@
 		"site": "https://cenele.com/",
 		"lang": "‎العربية",
 		"version": "1.0.13",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/Riwyat[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/Riwyat[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/riwyat/icon.png"
 	},
 	{
@@ -95,7 +95,7 @@
 		"site": "https://sunovels.com/",
 		"lang": "‎العربية",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/arabic/sunovels.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/arabic/sunovels.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ar/sunovels/icon.png"
 	},
 	{
@@ -104,7 +104,7 @@
 		"site": "https://www.69shu.xyz",
 		"lang": "中文, 汉语, 漢語",
 		"version": "0.2.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/chinese/69shu.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/chinese/69shu.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/cn/69shu/icon.png"
 	},
 	{
@@ -113,7 +113,7 @@
 		"site": "https://69shu.biz",
 		"lang": "中文, 汉语, 漢語",
 		"version": "0.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/chinese/69xinshu.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/chinese/69xinshu.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/cn/69xinshu/icon.png"
 	},
 	{
@@ -122,7 +122,7 @@
 		"site": "https://ixdzs8.com/",
 		"lang": "中文, 汉语, 漢語",
 		"version": "2.2.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/chinese/ixdzs8.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/chinese/ixdzs8.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/cn/ixdzs8/favicon.png"
 	},
 	{
@@ -131,7 +131,7 @@
 		"site": "https://www.linovel.net",
 		"lang": "中文, 汉语, 漢語",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/chinese/linovel.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/chinese/linovel.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/cn/linovel/icon.png"
 	},
 	{
@@ -140,7 +140,7 @@
 		"site": "https://www.bilinovel.com",
 		"lang": "中文, 汉语, 漢語",
 		"version": "1.1.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/chinese/linovelib.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/chinese/linovelib.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/cn/linovelib/icon.png"
 	},
 	{
@@ -149,7 +149,7 @@
 		"site": "https://tw.linovelib.com/",
 		"lang": "中文, 汉语, 漢語",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/chinese/linovelib_tw.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/chinese/linovelib_tw.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/cn/linovelib/icon.png"
 	},
 	{
@@ -158,7 +158,7 @@
 		"site": "https://www.novel543.com/",
 		"lang": "中文, 汉语, 漢語",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/chinese/novel543.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/chinese/novel543.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/cn/novel543/icon.png"
 	},
 	{
@@ -167,7 +167,7 @@
 		"site": "https://www.quanben.io/",
 		"lang": "中文, 汉语, 漢語",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/chinese/Quanben.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/chinese/Quanben.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/cn/quanben/icon.png"
 	},
 	{
@@ -176,7 +176,7 @@
 		"site": "https://1stkissnovel.org/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/FirstKissNovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/FirstKissNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/1stkissnovel/icon.png"
 	},
 	{
@@ -185,7 +185,7 @@
 		"site": "https://allnovel.org/",
 		"lang": "English",
 		"version": "2.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/AllNovel[readnovelfull].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/AllNovel[readnovelfull].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readnovelfull/allnovel/icon.png"
 	},
 	{
@@ -194,7 +194,7 @@
 		"site": "https://novgo.net/",
 		"lang": "English",
 		"version": "2.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/AllNovelFull[readnovelfull].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/AllNovelFull[readnovelfull].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readnovelfull/anf.net/icon.png"
 	},
 	{
@@ -203,7 +203,7 @@
 		"site": "https://arcanetranslations.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/ArcaneTranslations[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/ArcaneTranslations[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/arcane/icon.png"
 	},
 	{
@@ -212,7 +212,7 @@
 		"site": "https://archiveofourown.org/",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/ao3.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/ao3.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/ao3/icon.png"
 	},
 	{
@@ -221,7 +221,7 @@
 		"site": "https://srankmanga.com/",
 		"lang": "English",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/SrankManga[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/SrankManga[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/asuralightnovel/icon.png"
 	},
 	{
@@ -230,7 +230,7 @@
 		"site": "https://bellereservoir.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/BelleReservoir[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/BelleReservoir[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/bellereservoir/icon.png"
 	},
 	{
@@ -239,7 +239,7 @@
 		"site": "https://bestlightnovel.com/",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/bestlightnovel.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/bestlightnovel.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/bestlightnovel/icon.png"
 	},
 	{
@@ -248,7 +248,7 @@
 		"site": "https://novlove.com/",
 		"lang": "English",
 		"version": "2.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/BoxNovel[readnovelfull].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/BoxNovel[readnovelfull].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readnovelfull/boxnovel/icon.png"
 	},
 	{
@@ -257,7 +257,7 @@
 		"site": "https://chrysanthemumgarden.com",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/chrysanthemumgarden.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/chrysanthemumgarden.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/chrysanthemumgarden/icon.png"
 	},
 	{
@@ -266,7 +266,7 @@
 		"site": "https://citrusaurora.com/",
 		"lang": "English",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/CitrusAurora[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/CitrusAurora[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/citrusaurora/icon.png"
 	},
 	{
@@ -275,7 +275,7 @@
 		"site": "https://coralboutique.xyz/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/CoralBoutique[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/CoralBoutique[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/coralboutique/icon.png"
 	},
 	{
@@ -284,7 +284,7 @@
 		"site": "https://cpunovel.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/CPUnovel[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/CPUnovel[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/cpunovel/icon.png"
 	},
 	{
@@ -293,7 +293,7 @@
 		"site": "https://daoist.quest",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/DaoistQuest[fictioneer].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/DaoistQuest[fictioneer].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/fictioneer/daoistquest/icon.png"
 	},
 	{
@@ -302,7 +302,7 @@
 		"site": "https://daonovel.co/",
 		"lang": "English",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/DaoNovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/DaoNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/daonovel/icon.png"
 	},
 	{
@@ -311,7 +311,7 @@
 		"site": "https://daotranslate.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/DaoTranslate[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/DaoTranslate[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/daotranslate/icon.png"
 	},
 	{
@@ -320,7 +320,7 @@
 		"site": "https://www.divinedaolibrary.com/",
 		"lang": "English",
 		"version": "1.1.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/divinedaolibrary.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/divinedaolibrary.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/divinedaolibrary/icon.png"
 	},
 	{
@@ -329,7 +329,7 @@
 		"site": "https://dearestrosalie.com",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/DearestRosalie[fictioneer].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/DearestRosalie[fictioneer].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/fictioneer/dearestrosalie/icon.png"
 	},
 	{
@@ -338,7 +338,7 @@
 		"site": "https://dragonholic.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Dragonholic[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Dragonholic[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/dragonholic/icon.png"
 	},
 	{
@@ -347,7 +347,7 @@
 		"site": "https://dragontea.ink/",
 		"lang": "English",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/DragonTea[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/DragonTea[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/dragontea/icon.png"
 	},
 	{
@@ -356,7 +356,7 @@
 		"site": "https://www.dreambigtl.com/",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/dreambigtl.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/dreambigtl.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/dreambigtl/icon.png"
 	},
 	{
@@ -365,7 +365,7 @@
 		"site": "https://duskblossoms.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/DuskBlossoms[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/DuskBlossoms[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/duskblossoms/icon.png"
 	},
 	{
@@ -374,7 +374,7 @@
 		"site": "https://earlynovel.net/",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/earlynovel.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/earlynovel.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/earlynovel/icon.png"
 	},
 	{
@@ -383,7 +383,7 @@
 		"site": "https://ellotl.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/ElloTL[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/ElloTL[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/ellotl/icon.png"
 	},
 	{
@@ -392,7 +392,7 @@
 		"site": "https://eternalune.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Eternalune[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Eternalune[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/eternalune/icon.png"
 	},
 	{
@@ -401,7 +401,7 @@
 		"site": "https://etudetranslations.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/EtudeTranslations[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/EtudeTranslations[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/etudetranslations/icon.png"
 	},
 	{
@@ -410,7 +410,7 @@
 		"site": "https://www.fanmtl.com",
 		"lang": "English",
 		"version": "1.0.4",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/FanNovel[readwn].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/FanNovel[readwn].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readwn/fannovel/icon.png"
 	},
 	{
@@ -419,7 +419,7 @@
 		"site": "https://fanstranslations.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/FansTranslations[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/FansTranslations[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/fanstranslations/icon.png"
 	},
 	{
@@ -428,7 +428,7 @@
 		"site": "https://fenrirealm.com",
 		"lang": "English",
 		"version": "1.0.10",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/fenrirrealm.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/fenrirrealm.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/fenrirrealm/icon.png"
 	},
 	{
@@ -437,7 +437,7 @@
 		"site": "https://fictionzone.net",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/fictionzone.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/fictionzone.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/fictionzone/icon.png"
 	},
 	{
@@ -446,7 +446,7 @@
 		"site": "https://www.foxaholic.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Foxaholic[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Foxaholic[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/foxaholic/icon.png"
 	},
 	{
@@ -455,7 +455,7 @@
 		"site": "https://www.foxteller.com",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/foxteller.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/foxteller.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/foxteller/icon.png"
 	},
 	{
@@ -464,7 +464,7 @@
 		"site": "https://faqwiki.us/",
 		"lang": "English",
 		"version": "2.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/faqwikius.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/faqwikius.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/faqwikius/icon.png"
 	},
 	{
@@ -473,7 +473,7 @@
 		"site": "https://freewebnovel.com/",
 		"lang": "English",
 		"version": "2.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/FreeWebNovel[readnovelfull].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/FreeWebNovel[readnovelfull].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readnovelfull/fwn.com/icon.png"
 	},
 	{
@@ -482,7 +482,7 @@
 		"site": "https://darkstartranslations.com/",
 		"lang": "English",
 		"version": "1.0.11",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/GalaxyTranslations[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/GalaxyTranslations[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/galaxytranslations/icon.png"
 	},
 	{
@@ -491,7 +491,7 @@
 		"site": "https://genesistudio.com",
 		"lang": "English",
 		"version": "1.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/genesis.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/genesis.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/genesis/icon.png",
 		"customCSS": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/genesis/customCSS.css"
 	},
@@ -501,7 +501,7 @@
 		"site": "https://guavaread.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Guavaread[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Guavaread[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/guavaread/icon.png"
 	},
 	{
@@ -510,7 +510,7 @@
 		"site": "https://hiraethtranslation.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/HiraethTranslation[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/HiraethTranslation[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/hiraethtranslation/icon.png"
 	},
 	{
@@ -519,7 +519,7 @@
 		"site": "https://hotnovelpub.com",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/HotNovelPub[hotnovelpub].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/HotNovelPub[hotnovelpub].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/hotnovelpub/hotnovelpub/icon.png"
 	},
 	{
@@ -528,7 +528,7 @@
 		"site": "https://www.inkitt.com",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/inkitt.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/inkitt.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/inkitt/icon.png"
 	},
 	{
@@ -537,7 +537,7 @@
 		"site": "https://ippotranslations.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Ippotranslations[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Ippotranslations[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/ippotranslations/icon.png"
 	},
 	{
@@ -546,7 +546,7 @@
 		"site": "https://kdtnovels.com/",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/kdtnovels.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/kdtnovels.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/kdtnovels/icon.png"
 	},
 	{
@@ -555,7 +555,7 @@
 		"site": "https://keopitranslations.com",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/KeopiTranslations[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/KeopiTranslations[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/keopi/icon.png"
 	},
 	{
@@ -564,7 +564,7 @@
 		"site": "https://knoxt.space/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/KnoxT[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/KnoxT[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/knoxt/icon.png"
 	},
 	{
@@ -573,7 +573,7 @@
 		"site": "https://lazygirltranslations.com",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/LazyGirlTranslations[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/LazyGirlTranslations[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/lazygirltranslations/icon.png"
 	},
 	{
@@ -582,7 +582,7 @@
 		"site": "https://libread.com/",
 		"lang": "English",
 		"version": "2.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/LibRead[readnovelfull].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/LibRead[readnovelfull].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readnovelfull/libread/icon.png"
 	},
 	{
@@ -591,7 +591,7 @@
 		"site": "https://www.lightnovelcave.com/",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/LightNovelCave[lightnovelworld].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/LightNovelCave[lightnovelworld].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelworld/lightnovelcave/icon.png"
 	},
 	{
@@ -600,7 +600,7 @@
 		"site": "https://lightnovelplus.com/",
 		"lang": "English",
 		"version": "2.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/LightNovelPlus[readnovelfull].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/LightNovelPlus[readnovelfull].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readnovelfull/lightnovelplus/icon.png"
 	},
 	{
@@ -609,7 +609,7 @@
 		"site": "https://www.lightnovelpub.com/",
 		"lang": "English",
 		"version": "2.2.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/lightnovelpub.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/lightnovelpub.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/lightnovelpub/icon.png"
 	},
 	{
@@ -618,7 +618,7 @@
 		"site": "https://lightnovelpub.vip/",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/LightNovelPubVip[lightnovelworld].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/LightNovelPubVip[lightnovelworld].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelworld/lightnovelpubvip/icon.png"
 	},
 	{
@@ -627,7 +627,7 @@
 		"site": "https://lightnovelstranslations.com/",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/lightnoveltranslation.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/lightnoveltranslation.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/lightnoveltranslations/icon.png"
 	},
 	{
@@ -636,7 +636,7 @@
 		"site": "https://www.lightnovelupdates.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/LightNovelUpdates[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/LightNovelUpdates[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/lightnovelupdates/icon.png"
 	},
 	{
@@ -645,7 +645,7 @@
 		"site": "https://www.lightnovelworld.com/",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/LightNovelWord[lightnovelworld].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/LightNovelWord[lightnovelworld].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelworld/lightnovelworld/icon.png"
 	},
 	{
@@ -654,7 +654,7 @@
 		"site": "https://lilyonthevalley.com",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/LilyontheValley[fictioneer].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/LilyontheValley[fictioneer].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/fictioneer/lilyonthevalley/icon.png"
 	},
 	{
@@ -663,7 +663,7 @@
 		"site": "https://lightnovelheaven.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/LightNovelHeaven[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/LightNovelHeaven[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/lnheaven/icon.png"
 	},
 	{
@@ -672,7 +672,7 @@
 		"site": "https://lnmtl.com/",
 		"lang": "English",
 		"version": "2.1.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/lnmtl.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/lnmtl.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/lnmtl/icon.png"
 	},
 	{
@@ -681,7 +681,7 @@
 		"site": "https://www.ltnovels.com",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Ltnovel[readwn].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Ltnovel[readwn].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readwn/ltnovel/icon.png"
 	},
 	{
@@ -690,7 +690,7 @@
 		"site": "https://lunarletters.com/",
 		"lang": "English",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/LunarLetters[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/LunarLetters[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/lunarletters/icon.png"
 	},
 	{
@@ -699,7 +699,7 @@
 		"site": "https://meownovel.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Meownovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Meownovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/meownovel/icon.png"
 	},
 	{
@@ -708,7 +708,7 @@
 		"site": "https://moonlightnovel.com/",
 		"lang": "English",
 		"version": "1.1.10",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/MoonlightNovels[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/MoonlightNovels[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/moonlightnovel/icon.png"
 	},
 	{
@@ -717,7 +717,7 @@
 		"site": "https://mostnovel.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/MostNovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/MostNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/mostnovel/icon.png"
 	},
 	{
@@ -726,7 +726,7 @@
 		"site": "https://mtl-novel.com/",
 		"lang": "English",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/MTLNovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/MTLNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/mtl-novel/icon.png"
 	},
 	{
@@ -735,7 +735,7 @@
 		"site": "https://www.mtlnovels.com/",
 		"lang": "English",
 		"version": "1.1.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/MTLNovel[mtlnovel].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/MTLNovel[mtlnovel].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/mtlnovel/mtlnovel/icon.png"
 	},
 	{
@@ -744,7 +744,7 @@
 		"site": "https://mtlreader.com/",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/mtlreader.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/mtlreader.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/mtlreader/icon.png"
 	},
 	{
@@ -753,7 +753,7 @@
 		"site": "https://www.mvlempyr.com/",
 		"lang": "English",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/mvlempyr.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/mvlempyr.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/mvlempyr/icon.png"
 	},
 	{
@@ -762,7 +762,7 @@
 		"site": "https://mysticalmerries.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/MysticalSeries[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/MysticalSeries[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/mysticalmerries/icon.png"
 	},
 	{
@@ -771,7 +771,7 @@
 		"site": "https://www.neosekaitranslations.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NeoSekaiTranslations[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NeoSekaiTranslations[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/neosekaitls/icon.png"
 	},
 	{
@@ -780,7 +780,7 @@
 		"site": "https://nitromanga.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NitroManga[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NitroManga[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/nitromanga/icon.png"
 	},
 	{
@@ -789,7 +789,7 @@
 		"site": "https://novelsonline.net",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NovelOnline.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NovelOnline.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/novelsonline/icon.png"
 	},
 	{
@@ -798,7 +798,7 @@
 		"site": "https://noblemtl.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NobleMTL[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NobleMTL[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/noblemtl/icon.png"
 	},
 	{
@@ -807,7 +807,7 @@
 		"site": "https://noicetranslations.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NoiceTranslations[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NoiceTranslations[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/noicetranslations/icon.png"
 	},
 	{
@@ -816,7 +816,7 @@
 		"site": "https://novelbin.com/",
 		"lang": "English",
 		"version": "2.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NovelBin[readnovelfull].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NovelBin[readnovelfull].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readnovelfull/novelbin/icon.png"
 	},
 	{
@@ -825,7 +825,7 @@
 		"site": "https://novelbuddy.io/",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/novelbuddy.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/novelbuddy.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/novelbuddy/icon.png"
 	},
 	{
@@ -834,7 +834,7 @@
 		"site": "https://www.novelcool.com",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NovelCool[novelcool].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NovelCool[novelcool].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/novelcool/novelcool/icon.png"
 	},
 	{
@@ -843,7 +843,7 @@
 		"site": "https://novelfire.net/",
 		"lang": "English",
 		"version": "1.0.4",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/novelfire.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/novelfire.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/novelfire/icon.png"
 	},
 	{
@@ -852,7 +852,7 @@
 		"site": "https://novelfull.com/",
 		"lang": "English",
 		"version": "2.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NovelFull[readnovelfull].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NovelFull[readnovelfull].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readnovelfull/novelfull/icon.png"
 	},
 	{
@@ -861,7 +861,7 @@
 		"site": "https://novelhall.com/",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/novelhall.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/novelhall.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/novelhall/icon.png"
 	},
 	{
@@ -870,7 +870,7 @@
 		"site": "https://novelib.com",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NovelLib[fictioneer].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NovelLib[fictioneer].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/fictioneer/novelib/icon.png"
 	},
 	{
@@ -879,7 +879,7 @@
 		"site": "https://novelight.net/",
 		"lang": "English",
 		"version": "1.1.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/novelight.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/novelight.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/novelight/icon.png"
 	},
 	{
@@ -888,7 +888,7 @@
 		"site": "https://www.novelmultiverse.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NovelMultiverse[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NovelMultiverse[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/novelmultiverse/icon.png"
 	},
 	{
@@ -897,7 +897,7 @@
 		"site": "https://novelsknight.punchmanga.online/",
 		"lang": "English",
 		"version": "1.1.11",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NovelsKnight[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NovelsKnight[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/novelsknight/icon.png"
 	},
 	{
@@ -906,7 +906,7 @@
 		"site": "https://noveltranslate.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/NovelTranslate[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/NovelTranslate[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/noveltl/icon.png"
 	},
 	{
@@ -915,7 +915,7 @@
 		"site": "https://www.novelupdates.com/",
 		"lang": "English",
 		"version": "0.9.4",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/novelupdates.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/novelupdates.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/novelupdates/icon.png",
 		"customCSS": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/novelupdates/customCSS.css"
 	},
@@ -925,7 +925,7 @@
 		"site": "https://pandamtl.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/PandaMachineTranslations[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/PandaMachineTranslations[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/pandamtl/icon.png"
 	},
 	{
@@ -934,7 +934,7 @@
 		"site": "https://pasteltales.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/PastelTales[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/PastelTales[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/pasteltales/icon.png"
 	},
 	{
@@ -943,7 +943,7 @@
 		"site": "https://m.pawread.com/",
 		"lang": "English",
 		"version": "2.1.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/pawread.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/pawread.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/pawread/icon.png"
 	},
 	{
@@ -952,7 +952,7 @@
 		"site": "https://penguin-squad.com",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/PenguinSquad[fictioneer].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/PenguinSquad[fictioneer].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/fictioneer/penguinsquad/icon.png"
 	},
 	{
@@ -961,7 +961,7 @@
 		"site": "https://prizmatranslation.com",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Prizma[fictioneer].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Prizma[fictioneer].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/fictioneer/prizmatranslation/icon.png"
 	},
 	{
@@ -970,7 +970,7 @@
 		"site": "https://rainofsnow.com/",
 		"lang": "English",
 		"version": "1.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/rainofsnow.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/rainofsnow.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/rainofsnow/icon.png"
 	},
 	{
@@ -979,7 +979,7 @@
 		"site": "https://ranobes.top",
 		"lang": "English",
 		"version": "2.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Ranobes[ranobes].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Ranobes[ranobes].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/ranobes/ranobes/icon.png"
 	},
 	{
@@ -988,7 +988,7 @@
 		"site": "https://ranovel.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Ranovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Ranovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/ranovel/icon.png"
 	},
 	{
@@ -997,7 +997,7 @@
 		"site": "https://readfanfic.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/ReadFanfic[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/ReadFanfic[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/readfanfic/icon.png"
 	},
 	{
@@ -1006,7 +1006,7 @@
 		"site": "https://readfrom.net",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/readfrom.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/readfrom.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/readfrom/icon.png"
 	},
 	{
@@ -1015,7 +1015,7 @@
 		"site": "https://readnovelfull.com/",
 		"lang": "English",
 		"version": "2.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/ReadNovelFull[readnovelfull].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/ReadNovelFull[readnovelfull].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readnovelfull/readnovelfull/icon.png"
 	},
 	{
@@ -1024,7 +1024,7 @@
 		"site": "https://reaperscans.com",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/reaperscans.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/reaperscans.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/reaperscans/icon.png"
 	},
 	{
@@ -1033,7 +1033,7 @@
 		"site": "https://re-library.com",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/relibrary.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/relibrary.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/relibrary/icon.png"
 	},
 	{
@@ -1042,7 +1042,7 @@
 		"site": "https://requiemtls.com/",
 		"lang": "English",
 		"version": "1.1.13",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/RequiemTranslations[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/RequiemTranslations[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/requiemtls/icon.png"
 	},
 	{
@@ -1051,7 +1051,7 @@
 		"site": "https://rln.app",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/readlitenovel.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/readlitenovel.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/readlitenovel/icon.png"
 	},
 	{
@@ -1060,7 +1060,7 @@
 		"site": "https://www.royalroad.com/",
 		"lang": "English",
 		"version": "2.2.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/royalroad.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/royalroad.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/royalroad/icon.png"
 	},
 	{
@@ -1069,7 +1069,7 @@
 		"site": "https://salmonlatte.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/SalmonLatte[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/SalmonLatte[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/salmonlatte/icon.png"
 	},
 	{
@@ -1078,7 +1078,7 @@
 		"site": "https://www.scribblehub.com/",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/scribblehub.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/scribblehub.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/scribblehub/icon.png"
 	},
 	{
@@ -1087,7 +1087,7 @@
 		"site": "https://sleepytranslations.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/SleepyTranslations[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/SleepyTranslations[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/sleepttls/icon.png"
 	},
 	{
@@ -1096,7 +1096,7 @@
 		"site": "https://www.sonicmtl.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/SonicMTL[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/SonicMTL[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/sonicmtl/icon.png"
 	},
 	{
@@ -1105,7 +1105,7 @@
 		"site": "https://storyseedling.com/",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/StorySeedling.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/StorySeedling.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/storyseedling/icon.png"
 	},
 	{
@@ -1114,7 +1114,7 @@
 		"site": "https://sweetescapetranslations.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/SweetEscape[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/SweetEscape[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/sweetescape/icon.png"
 	},
 	{
@@ -1123,7 +1123,7 @@
 		"site": "https://systemtranslation.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/SystemTranslation[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/SystemTranslation[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/systemtranslation/icon.png"
 	},
 	{
@@ -1132,7 +1132,7 @@
 		"site": "https://translatinotaku.net/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/TranslatinOtaku[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/TranslatinOtaku[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/translatinotaku/icon.png"
 	},
 	{
@@ -1141,7 +1141,7 @@
 		"site": "https://transweaver.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/TranslationWeaver[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/TranslationWeaver[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/transweaver/icon.png"
 	},
 	{
@@ -1150,7 +1150,7 @@
 		"site": "https://universalnovel.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/UniversalNovel[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/UniversalNovel[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/universalnovel/icon.png"
 	},
 	{
@@ -1159,7 +1159,7 @@
 		"site": "https://vandytranslate.com",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/VandyTranslate[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/VandyTranslate[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/vandytranslate/icon.png"
 	},
 	{
@@ -1168,7 +1168,7 @@
 		"site": "https://violetlilytranslation.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/VioletLily[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/VioletLily[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/violetlily/icon.png"
 	},
 	{
@@ -1177,7 +1177,7 @@
 		"site": "https://vynovel.com",
 		"lang": "English",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/vynovel.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/vynovel.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/vynovel/icon.png"
 	},
 	{
@@ -1186,7 +1186,7 @@
 		"site": "https://www.webnovel.com",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/webnovel.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/webnovel.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/webnovel/icon.png"
 	},
 	{
@@ -1195,7 +1195,7 @@
 		"site": "https://www.webnovelover.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/WebNovelLover[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/WebNovelLover[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/webnovelover/icon.png"
 	},
 	{
@@ -1204,7 +1204,7 @@
 		"site": "https://webnoveltranslations.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/WebNovelTranslation[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/WebNovelTranslation[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/webnoveltraslation/icon.png"
 	},
 	{
@@ -1213,7 +1213,7 @@
 		"site": "https://www.webnovelworld.org/",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/WebNovelPub[lightnovelworld].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/WebNovelPub[lightnovelworld].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelworld/webnovelworld/icon.png"
 	},
 	{
@@ -1222,7 +1222,7 @@
 		"site": "https://whitemoonlightnovels.com/",
 		"lang": "English",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/WhiteMoonlightNovels[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/WhiteMoonlightNovels[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/whitemoonlightnovels/icon.png"
 	},
 	{
@@ -1231,7 +1231,7 @@
 		"site": "https://wooksteahouse.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/WooksTeahouse[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/WooksTeahouse[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/wooksteahouse/icon.png"
 	},
 	{
@@ -1240,7 +1240,7 @@
 		"site": "https://wordexcerpt.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/WordExcerpt[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/WordExcerpt[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/wordexcerpt/icon.png"
 	},
 	{
@@ -1249,7 +1249,7 @@
 		"site": "https://wtr-lab.com/",
 		"lang": "English",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/wtrlab.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/wtrlab.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/wtrlab/icon.png"
 	},
 	{
@@ -1258,7 +1258,7 @@
 		"site": "https://www.wuxiafox.com",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Wuxiafox[readwn].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Wuxiafox[readwn].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readwn/wuxiacity/icon.png"
 	},
 	{
@@ -1267,7 +1267,7 @@
 		"site": "https://www.fanmtl.com",
 		"lang": "English",
 		"version": "1.0.4",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/FansMTL[readwn].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/FansMTL[readwn].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readwn/wuxiamtl/icon.png"
 	},
 	{
@@ -1276,7 +1276,7 @@
 		"site": "https://www.wuxiabox.com",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/Wuxiabox[readwn].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/Wuxiabox[readwn].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readwn/wuxiap/icon.png"
 	},
 	{
@@ -1285,7 +1285,7 @@
 		"site": "https://www.wuxiaspot.com",
 		"lang": "English",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/WuxiaSpace[readwn].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/WuxiaSpace[readwn].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readwn/wuxiaspace/icon.png"
 	},
 	{
@@ -1294,7 +1294,7 @@
 		"site": "https://www.wuxiav.com",
 		"lang": "English",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/WuxiaV[readwn].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/WuxiaV[readwn].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/readwn/wuxiav/icon.png"
 	},
 	{
@@ -1303,7 +1303,7 @@
 		"site": "https://www.wuxiaworld.com/",
 		"lang": "English",
 		"version": "0.5.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/wuxiaworld.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/wuxiaworld.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/en/wuxiaworld/icon.png"
 	},
 	{
@@ -1312,7 +1312,7 @@
 		"site": "https://wuxiaworld.site/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/WuxiaWorldSite[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/WuxiaWorldSite[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/wuxiaworld.site/icon.png"
 	},
 	{
@@ -1321,7 +1321,7 @@
 		"site": "https://zetrotranslation.com/",
 		"lang": "English",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/english/ZetroTranslation[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/english/ZetroTranslation[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/zetrotl/icon.png"
 	},
 	{
@@ -1330,7 +1330,7 @@
 		"site": "https://chireads.com",
 		"lang": "Français",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/chireads.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/chireads.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/fr/chireads/icon.png"
 	},
 	{
@@ -1339,7 +1339,7 @@
 		"site": "https://harkeneliwood.wordpress.com",
 		"lang": "Français",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/harkeneliwood.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/harkeneliwood.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/fr/harkeneliwood/icon.png"
 	},
 	{
@@ -1348,7 +1348,7 @@
 		"site": "https://kisswood.eu",
 		"lang": "Français",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/kisswood.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/kisswood.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/fr/kisswood/icon.png"
 	},
 	{
@@ -1357,7 +1357,7 @@
 		"site": "https://lightnovelfr.com/",
 		"lang": "Français",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/LighNovelFR[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/LighNovelFR[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/lightnovelfr/icon.png"
 	},
 	{
@@ -1366,7 +1366,7 @@
 		"site": "https://massnovel.fr/",
 		"lang": "Français",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/MassNovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/MassNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/massnovel/icon.png"
 	},
 	{
@@ -1375,7 +1375,7 @@
 		"site": "https://fr.mtlnovels.com/",
 		"lang": "Français",
 		"version": "1.1.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/MTLNovel(FR)[mtlnovel].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/MTLNovel(FR)[mtlnovel].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/mtlnovel/mtlnovel/icon.png"
 	},
 	{
@@ -1384,7 +1384,7 @@
 		"site": "https://noveldeglace.com/",
 		"lang": "Français",
 		"version": "1.0.4",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/noveldeglace.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/noveldeglace.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/fr/noveldeglace/icon.png"
 	},
 	{
@@ -1393,7 +1393,7 @@
 		"site": "https://novhell.org",
 		"lang": "Français",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/novhell.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/novhell.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/fr/novhell/icon.png"
 	},
 	{
@@ -1402,7 +1402,7 @@
 		"site": "https://phenixscans.fr",
 		"lang": "Français",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/phenixscans.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/phenixscans.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/fr/phenixscans/icon.png"
 	},
 	{
@@ -1411,7 +1411,7 @@
 		"site": "https://warriorlegendtrad.wordpress.com",
 		"lang": "Français",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/warriorlegendtrad.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/warriorlegendtrad.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/fr/warriorlegendtrad/icon.png"
 	},
 	{
@@ -1420,7 +1420,7 @@
 		"site": "https://world-novel.fr/",
 		"lang": "Français",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/WorldNovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/WorldNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/worldnovel/icon.png"
 	},
 	{
@@ -1429,7 +1429,7 @@
 		"site": "https://wuxialnscantrad.wordpress.com",
 		"lang": "Français",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/wuxialnscantrad.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/wuxialnscantrad.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/fr/wuxialnscantrad/icon.png"
 	},
 	{
@@ -1438,7 +1438,7 @@
 		"site": "https://xiaowaz.fr",
 		"lang": "Français",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/french/xiaowaz.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/french/xiaowaz.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/fr/xiaowaz/icon.png"
 	},
 	{
@@ -1447,7 +1447,7 @@
 		"site": "https://bacalightnovel.co/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/indonesian/BacaLightNovel[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/indonesian/BacaLightNovel[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/bacalightnovel/icon.png"
 	},
 	{
@@ -1456,7 +1456,7 @@
 		"site": "https://indowebnovel.id/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.2.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/indonesian/indowebnovel.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/indonesian/indowebnovel.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/id/indowebnovel/icon.png"
 	},
 	{
@@ -1465,7 +1465,7 @@
 		"site": "https://meionovels.com/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/indonesian/MeioNovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/indonesian/MeioNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/meionovel/icon.png"
 	},
 	{
@@ -1474,7 +1474,7 @@
 		"site": "https://risenovel.com/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/indonesian/Risenovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/indonesian/Risenovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/morenovel/icon.png"
 	},
 	{
@@ -1483,7 +1483,7 @@
 		"site": "https://id.mtlnovels.com/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.1.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/indonesian/MTLNovel(ID)[mtlnovel].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/indonesian/MTLNovel(ID)[mtlnovel].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/mtlnovel/mtlnovel/icon.png"
 	},
 	{
@@ -1492,7 +1492,7 @@
 		"site": "https://www.novelbook.id/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/indonesian/NovelBookID[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/indonesian/NovelBookID[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/novelbookid/icon.png"
 	},
 	{
@@ -1501,7 +1501,7 @@
 		"site": "https://novelringan.com/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/indonesian/novelringan.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/indonesian/novelringan.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/id/novelringan/icon.png"
 	},
 	{
@@ -1510,7 +1510,7 @@
 		"site": "https://sakuranovel.id/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/indonesian/sakuranovel.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/indonesian/sakuranovel.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/id/sakuranovel/icon.png"
 	},
 	{
@@ -1519,7 +1519,7 @@
 		"site": "https://sektenovel.web.id/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/indonesian/SekteNovel[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/indonesian/SekteNovel[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/sektenovel/icon.png"
 	},
 	{
@@ -1528,7 +1528,7 @@
 		"site": "https://wbnovel.com/",
 		"lang": "Bahasa Indonesia",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/indonesian/WBNovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/indonesian/WBNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/wbnovel/icon.png"
 	},
 	{
@@ -1537,7 +1537,7 @@
 		"site": "https://kakuyomu.jp",
 		"lang": "日本語",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/japanese/kakuyomu.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/japanese/kakuyomu.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/jp/kakuyomu/icon.png"
 	},
 	{
@@ -1546,7 +1546,7 @@
 		"site": "https://yomou.syosetu.com/",
 		"lang": "日本語",
 		"version": "1.1.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/japanese/Syosetu.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/japanese/Syosetu.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/jp/syosetu/icon.png"
 	},
 	{
@@ -1555,7 +1555,7 @@
 		"site": "https://agit664.xyz",
 		"lang": "조선말, 한국어",
 		"version": "3.1.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/korean/Agitoon.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/korean/Agitoon.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/kr/agitoon/icon.png"
 	},
 	{
@@ -1564,7 +1564,7 @@
 		"site": "https://www.fortuneeternal.com",
 		"lang": "조선말, 한국어",
 		"version": "1.0.10",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/korean/FortuneEternal[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/korean/FortuneEternal[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/fortuneeternal/icon.png"
 	},
 	{
@@ -1573,7 +1573,7 @@
 		"site": "https://novelki.pl",
 		"lang": "Polski",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/polish/novelki.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/polish/novelki.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/pl/novelki/icon.png"
 	},
 	{
@@ -1582,7 +1582,7 @@
 		"site": "https://betternovels.net/",
 		"lang": "Português",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/portuguese/BetterNovels[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/portuguese/BetterNovels[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/betternovels/icon.png"
 	},
 	{
@@ -1591,7 +1591,7 @@
 		"site": "https://www.blogdoamonnovels.com",
 		"lang": "Português",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/portuguese/blogdoamonnovels.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/portuguese/blogdoamonnovels.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/pt-br/blogdoamonnovels/icon.png"
 	},
 	{
@@ -1600,7 +1600,7 @@
 		"site": "https://centralnovel.com/",
 		"lang": "Português",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/portuguese/CentralNovel[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/portuguese/CentralNovel[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/centralnovel/icon.png"
 	},
 	{
@@ -1609,7 +1609,7 @@
 		"site": "https://kiniga.com/",
 		"lang": "Português",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/portuguese/Kiniga[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/portuguese/Kiniga[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/kiniga/icon.png"
 	},
 	{
@@ -1618,7 +1618,7 @@
 		"site": "https://lanovels.com",
 		"lang": "Português",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/portuguese/LaNovels[hotnovelpub].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/portuguese/LaNovels[hotnovelpub].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/hotnovelpub/lanovels/icon.png"
 	},
 	{
@@ -1627,7 +1627,7 @@
 		"site": "https://lightnovelbrasil.com/",
 		"lang": "Português",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/portuguese/LightNovelBrasil[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/portuguese/LightNovelBrasil[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/lightnovelbrasil/icon.png"
 	},
 	{
@@ -1636,7 +1636,7 @@
 		"site": "https://pt.mtlnovels.com/",
 		"lang": "Português",
 		"version": "1.1.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/portuguese/MTLNovel(PT)[mtlnovel].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/portuguese/MTLNovel(PT)[mtlnovel].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/mtlnovel/mtlnovel/icon.png"
 	},
 	{
@@ -1645,7 +1645,7 @@
 		"site": "https://novelmania.com.br",
 		"lang": "Português",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/portuguese/novelmania.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/portuguese/novelmania.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/pt-br/novelmania/icon.png"
 	},
 	{
@@ -1654,7 +1654,7 @@
 		"site": "https://tsundoku.com.br",
 		"lang": "Português",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/portuguese/tsundoku.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/portuguese/tsundoku.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/pt-br/tsundoku/icon.png"
 	},
 	{
@@ -1663,7 +1663,7 @@
 		"site": "https://author.today",
 		"lang": "Русский",
 		"version": "1.2.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/authortoday.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/authortoday.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/authortoday/icon.png"
 	},
 	{
@@ -1672,7 +1672,7 @@
 		"site": "https://bookhamster.ru",
 		"lang": "Русский",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/Bookhamster[ifreedom].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/Bookhamster[ifreedom].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/ifreedom/bookhamster/icon.png"
 	},
 	{
@@ -1681,7 +1681,7 @@
 		"site": "https://bookriver.ru",
 		"lang": "Русский",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/bookriver.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/bookriver.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/bookriver/icon.png"
 	},
 	{
@@ -1690,7 +1690,7 @@
 		"site": "https://erolate.com",
 		"lang": "Русский",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/Erolate[rulate].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/Erolate[rulate].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/rulate/erolate/icon.png"
 	},
 	{
@@ -1699,7 +1699,7 @@
 		"site": "https://eznovels.com",
 		"lang": "Русский",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/EzNovels[hotnovelpub].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/EzNovels[hotnovelpub].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/hotnovelpub/eznovels/icon.png"
 	},
 	{
@@ -1708,7 +1708,7 @@
 		"site": "https://ficbook.net",
 		"lang": "Русский",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/ficbook.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/ficbook.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/ficbook/icon.png"
 	},
 	{
@@ -1717,7 +1717,7 @@
 		"site": "https://freedlit.space",
 		"lang": "Русский",
 		"version": "1.1.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/LitSpace.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/LitSpace.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/freedlit/icon.png"
 	},
 	{
@@ -1726,7 +1726,7 @@
 		"site": "https://ifreedom.su",
 		"lang": "Русский",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/СвободныйМирРанобэ[ifreedom].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/СвободныйМирРанобэ[ifreedom].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/ifreedom/ifreedom/icon.png"
 	},
 	{
@@ -1735,7 +1735,7 @@
 		"site": "https://jaomix.ru",
 		"lang": "Русский",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/jaomix.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/jaomix.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/jaomix/icon.png"
 	},
 	{
@@ -1744,7 +1744,7 @@
 		"site": "https://ru.mtlnovels.com/",
 		"lang": "Русский",
 		"version": "1.1.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/MTLNovel(RU)[mtlnovel].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/MTLNovel(RU)[mtlnovel].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/mtlnovel/mtlnovel/icon.png"
 	},
 	{
@@ -1753,7 +1753,7 @@
 		"site": "https://neobook.org",
 		"lang": "Русский",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/neobook.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/neobook.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/neobook/icon.png"
 	},
 	{
@@ -1762,7 +1762,7 @@
 		"site": "https://ru.novelcool.com",
 		"lang": "Русский",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/NovelCool(RU)[novelcool].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/NovelCool(RU)[novelcool].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/novelcool/novelcool/icon.png"
 	},
 	{
@@ -1771,7 +1771,7 @@
 		"site": "https://novel.ovh",
 		"lang": "Русский",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/novelOvh.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/novelOvh.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/novelovh/icon.png"
 	},
 	{
@@ -1780,7 +1780,7 @@
 		"site": "https://ranobes.com",
 		"lang": "Русский",
 		"version": "2.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/Ranobes(RU)[ranobes].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/Ranobes(RU)[ranobes].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/ranobes/ranobes/icon.png"
 	},
 	{
@@ -1789,7 +1789,7 @@
 		"site": "https://renovels.org",
 		"lang": "Русский",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/renovels.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/renovels.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/renovels/icon.png"
 	},
 	{
@@ -1798,7 +1798,7 @@
 		"site": "https://ranobelib.me",
 		"lang": "Русский",
 		"version": "2.2.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/ranobelib.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/ranobelib.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/ranobelib/icon.png"
 	},
 	{
@@ -1807,7 +1807,7 @@
 		"site": "https://ranobehub.org",
 		"lang": "Русский",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/ranobehub.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/ranobehub.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/ranobehub/icon.png"
 	},
 	{
@@ -1816,7 +1816,7 @@
 		"site": "https://ранобэ.рф",
 		"lang": "Русский",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/ranoberf.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/ranoberf.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/ranoberf/icon.png"
 	},
 	{
@@ -1825,7 +1825,7 @@
 		"site": "https://tl.rulate.ru",
 		"lang": "Русский",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/Rulate[rulate].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/Rulate[rulate].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/rulate/rulate/icon.png"
 	},
 	{
@@ -1834,7 +1834,7 @@
 		"site": "https://ruvers.ru/",
 		"lang": "Русский",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/ruvers.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/ruvers.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/ruvers/icon.png"
 	},
 	{
@@ -1843,7 +1843,7 @@
 		"site": "https://novel.tl",
 		"lang": "Русский",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/novelTL.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/novelTL.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/noveltl/icon.png"
 	},
 	{
@@ -1852,7 +1852,7 @@
 		"site": "https://topliba.com",
 		"lang": "Русский",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/topliba.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/topliba.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/topliba/icon.png"
 	},
 	{
@@ -1861,7 +1861,7 @@
 		"site": "https://zelluloza.ru",
 		"lang": "Русский",
 		"version": "1.0.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/russian/zelluloza.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/russian/zelluloza.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ru/zelluloza/icon.png"
 	},
 	{
@@ -1870,7 +1870,7 @@
 		"site": "https://allnovelread.com/",
 		"lang": "Español",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/AllNovelRead[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/AllNovelRead[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/allnovelread/icon.png"
 	},
 	{
@@ -1879,7 +1879,7 @@
 		"site": "https://animeshoy12.com/",
 		"lang": "Español",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/AnimesHoy12[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/AnimesHoy12[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/animeshoy12/icon.png"
 	},
 	{
@@ -1888,7 +1888,7 @@
 		"site": "https://hasutl.wordpress.com/",
 		"lang": "Español",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/hasutl.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/hasutl.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/es/hasutl/icon.jpg"
 	},
 	{
@@ -1897,7 +1897,7 @@
 		"site": "https://lightnoveldaily.com",
 		"lang": "Español",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/LightNovelDaily[hotnovelpub].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/LightNovelDaily[hotnovelpub].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/hotnovelpub/lightnoveldaily/icon.png"
 	},
 	{
@@ -1906,7 +1906,7 @@
 		"site": "https://es.mtlnovels.com/",
 		"lang": "Español",
 		"version": "1.1.3",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/MTLNovel(ES)[mtlnovel].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/MTLNovel(ES)[mtlnovel].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/mtlnovel/mtlnovel/icon.png"
 	},
 	{
@@ -1915,7 +1915,7 @@
 		"site": "https://novelasligera.com/",
 		"lang": "Español",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/novelasligera.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/novelasligera.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/es/novelasligera/icon.png"
 	},
 	{
@@ -1924,7 +1924,7 @@
 		"site": "https://oasistranslations.wordpress.com/",
 		"lang": "Español",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/oasistranslations.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/oasistranslations.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/es/oasistranslations/icon.png"
 	},
 	{
@@ -1933,7 +1933,7 @@
 		"site": "https://panchotranslations.com/",
 		"lang": "Español",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/PanchoTranslations[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/PanchoTranslations[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/panchotranslations/icon.png"
 	},
 	{
@@ -1942,7 +1942,7 @@
 		"site": "http://www.reinowuxia.com/",
 		"lang": "Español",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/novelawuxia.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/novelawuxia.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/es/reinowuxia/icon.png"
 	},
 	{
@@ -1951,7 +1951,7 @@
 		"site": "https://www.skynovels.net/",
 		"lang": "Español",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/skynovels.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/skynovels.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/es/skynovels/icon.png"
 	},
 	{
@@ -1960,7 +1960,7 @@
 		"site": "https://teamchmantranslations.com",
 		"lang": "Español",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/TC&Sega[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/TC&Sega[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/tcsega/icon.png"
 	},
 	{
@@ -1969,7 +1969,7 @@
 		"site": "https://traduccionesamistosas.topmanhuas.org/",
 		"lang": "Español",
 		"version": "1.0.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/TraduccionesAmistosas[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/TraduccionesAmistosas[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/traducciones/icon.png"
 	},
 	{
@@ -1978,7 +1978,7 @@
 		"site": "https://tunovelaligera.com",
 		"lang": "Español",
 		"version": "1.1.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/tunovelaligera.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/tunovelaligera.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/es/tunovelaligera/icon.png"
 	},
 	{
@@ -1987,7 +1987,7 @@
 		"site": "https://yuukitls.com/",
 		"lang": "Español",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/spanish/yukitls.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/spanish/yukitls.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/es/yuukitls/icon.png"
 	},
 	{
@@ -1996,7 +1996,7 @@
 		"site": "https://novel-lucky.com/",
 		"lang": "ไทย",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/thai/NovelLucky[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/thai/NovelLucky[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/novel-lucky/icon.png"
 	},
 	{
@@ -2005,7 +2005,7 @@
 		"site": "https://novelpdf.xyz/",
 		"lang": "ไทย",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/thai/NovelPDF[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/thai/NovelPDF[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/novelpdf/icon.png"
 	},
 	{
@@ -2014,7 +2014,7 @@
 		"site": "https://araznovel.com/",
 		"lang": "Türkçe",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/ArazNovel[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/ArazNovel[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/azraznovel/icon.png"
 	},
 	{
@@ -2023,7 +2023,7 @@
 		"site": "https://e-kitaplar.com/",
 		"lang": "Türkçe",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/EKTAPLAR[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/EKTAPLAR[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/ekitaplar/icon.png"
 	},
 	{
@@ -2032,7 +2032,7 @@
 		"site": "https://www.epiknovel.com/",
 		"lang": "Türkçe",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/epiknovel.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/epiknovel.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/tr/epiknovel/icon.png"
 	},
 	{
@@ -2041,7 +2041,7 @@
 		"site": "https://kakikata.com.tr/",
 		"lang": "Türkçe",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/kakikata[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/kakikata[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/kakikata/icon.png"
 	},
 	{
@@ -2050,7 +2050,7 @@
 		"site": "https://www.kodekslibrary.com/",
 		"lang": "Türkçe",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/KodeksLibrary[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/KodeksLibrary[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/kodekslibrary/icon.png"
 	},
 	{
@@ -2059,7 +2059,7 @@
 		"site": "https://manga-tr.com/",
 		"lang": "Türkçe",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/MangaTR.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/MangaTR.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/tr/mangatr/icon.png"
 	},
 	{
@@ -2068,7 +2068,7 @@
 		"site": "https://nabiscans.com/",
 		"lang": "Türkçe",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/NABSCANS[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/NABSCANS[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/nabiscans/icon.png"
 	},
 	{
@@ -2077,7 +2077,7 @@
 		"site": "https://namevt.com/",
 		"lang": "Türkçe",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/Namevt[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/Namevt[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/namevt/icon.png"
 	},
 	{
@@ -2086,7 +2086,7 @@
 		"site": "https://noveloku.com.tr/",
 		"lang": "Türkçe",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/Noveloku[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/Noveloku[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/noveloku/icon.png"
 	},
 	{
@@ -2095,7 +2095,7 @@
 		"site": "https://noveltr.com/",
 		"lang": "Türkçe",
 		"version": "1.1.9",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/NovelTR[lightnovelwp].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/NovelTR[lightnovelwp].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/lightnovelwp/noveltr/icon.png"
 	},
 	{
@@ -2104,7 +2104,7 @@
 		"site": "https://ragnarscans.com/",
 		"lang": "Türkçe",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/RagnarScans[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/RagnarScans[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/ragnarscans/icon.png"
 	},
 	{
@@ -2113,7 +2113,7 @@
 		"site": "https://thnovels.com",
 		"lang": "Türkçe",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/ThNovels[hotnovelpub].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/ThNovels[hotnovelpub].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/hotnovelpub/thnovels/icon.png"
 	},
 	{
@@ -2122,7 +2122,7 @@
 		"site": "https://turkcelightnovels.com/",
 		"lang": "Türkçe",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/TurkceLightNovels[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/TurkceLightNovels[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/turkcelightnovels/icon.png"
 	},
 	{
@@ -2131,7 +2131,7 @@
 		"site": "https://www.webnoveloku.com/",
 		"lang": "Türkçe",
 		"version": "1.0.8",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/turkish/WebNovelOku[madara].js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/turkish/WebNovelOku[madara].js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/multisrc/madara/webnoveloku/icon.png"
 	},
 	{
@@ -2140,7 +2140,7 @@
 		"site": "https://baka.in.ua",
 		"lang": "Українська",
 		"version": "2.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/ukrainian/bakainua.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/ukrainian/bakainua.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/uk/bakainua/icon.png"
 	},
 	{
@@ -2149,7 +2149,7 @@
 		"site": "https://honey-manga.com.ua",
 		"lang": "Українська",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/ukrainian/HoneyManga.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/ukrainian/HoneyManga.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ukrainian/honeymanga/icon.png"
 	},
 	{
@@ -2158,7 +2158,7 @@
 		"site": "https://smakolykytl.site/",
 		"lang": "Українська",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/ukrainian/smakolykytl.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/ukrainian/smakolykytl.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/uk/smakolykytl/icon.png"
 	},
 	{
@@ -2167,7 +2167,7 @@
 		"site": "https://uaranobe.club/",
 		"lang": "Українська",
 		"version": "1.1.4",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/ukrainian/uaranobeclub.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/ukrainian/uaranobeclub.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/uk/uaranobeclub/icon.png"
 	},
 	{
@@ -2176,7 +2176,7 @@
 		"site": "https://lightnovel.vn",
 		"lang": "Tiếng Việt",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/vietnamese/lightnovelvn.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/vietnamese/lightnovelvn.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/vi/lightnovelvn/icon.png"
 	},
 	{
@@ -2185,7 +2185,7 @@
 		"site": "https://ln.hako.vn",
 		"lang": "Tiếng Việt",
 		"version": "1.1.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/vietnamese/LNHako.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/vietnamese/LNHako.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/vi/hakolightnovel/icon.png"
 	},
 	{
@@ -2194,7 +2194,7 @@
 		"site": "https://nettruyen.com.vn",
 		"lang": "Tiếng Việt",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/vietnamese/nettruyen.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/vietnamese/nettruyen.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/vi/nettruyen/icon.png"
 	},
 	{
@@ -2203,7 +2203,7 @@
 		"site": "https://truyenchu.vn",
 		"lang": "Tiếng Việt",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/vietnamese/truyenchu.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/vietnamese/truyenchu.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/vi/truyenchu/icon.png"
 	},
 	{
@@ -2212,7 +2212,7 @@
 		"site": "https://truyenconect.com",
 		"lang": "Tiếng Việt",
 		"version": "1.0.0",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/vietnamese/Truyenconect.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/vietnamese/Truyenconect.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/vi/truyenconect/icon.png",
 		"customJS": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/vi/truyenconect/test.js"
 	},
@@ -2222,7 +2222,7 @@
 		"site": "https://truyenfull.io",
 		"lang": "Tiếng Việt",
 		"version": "1.0.2",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/vietnamese/truyenfull.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/vietnamese/truyenfull.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/vi/truyenfull/icon.png"
 	},
 	{
@@ -2231,7 +2231,7 @@
 		"site": "url",
 		"lang": "Multi",
 		"version": "1.0.1",
-		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/src/plugins/multi/komga.js",
+		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/multi/komga.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/multi/komga/icon.png"
 	}
 ]
