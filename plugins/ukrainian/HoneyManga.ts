@@ -8,7 +8,7 @@ class HoneyManga implements Plugin.PluginBase {
   name = 'Honey Manga';
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
-  version = '1.0.0';
+  version = '1.0.1';
   async popularNovels(
     pageNo: number,
     {
@@ -45,15 +45,42 @@ class HoneyManga implements Plugin.PluginBase {
     const body = await result.text();
     const $ = parseHTML(body);
 
+    const infoRoot = $('.md\\:flex-1.max-md\\:w-full.max-md\\:mt-6');
+    const name =
+      infoRoot.find('p.font-bold').first().text().trim() ||
+      $('p.font-bold').first().text().trim();
+    const summary =
+      $('.MuiTabPanel-root .flex-1 > p.mt-4').first().text().trim() ||
+      $('p.mt-4').first().text().trim();
+    const cover = $('.relative.rounded-[4px] img').attr('src');
+
     const novel: Plugin.SourceNovel = {
       path: novelPath,
-      name: $('p.font-bold').text().trim(),
-      cover: $('.relative.rounded-[4px] img').attr('src'),
-      summary: $('p.mt-4').text().trim(),
+      name,
+      cover,
+      summary,
       author: '',
     };
 
     const chapters: Plugin.ChapterItem[] = [];
+
+    $('a.flex.items-start.justify-between.py-4.border-b').each((i, el) => {
+      const path = $(el).attr('href') || '';
+      const chapterName = $(el).find('p.font-medium.text-sm').text().trim();
+      const releaseTime = $(el).find('div.mt-3 span').first().text().trim();
+      if (chapterName && path) {
+        chapters.push({
+          name: chapterName,
+          path,
+          releaseTime,
+        });
+      }
+    });
+
+    if (chapters.length > 1) {
+      chapters.reverse();
+    }
+
     novel.chapters = chapters;
     return novel;
   }
@@ -65,9 +92,17 @@ class HoneyManga implements Plugin.PluginBase {
     const $ = parseHTML(body);
 
     const chapterBlocks = $('div.py-\\[6px\\]');
+
     if (!chapterBlocks.length) {
+      const images = $('img');
+      if (images.length > 5) {
+        throw new Error(
+          'Помилка: Цей розділ містить зображення (манґу), а не текст.',
+        );
+      }
       throw new Error('Не вдалося завантажити розділ: текст відсутній.');
     }
+
     const content = chapterBlocks
       .map((_, el) => $(el).html())
       .get()
