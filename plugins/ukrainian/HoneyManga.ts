@@ -8,7 +8,7 @@ class HoneyManga implements Plugin.PluginBase {
   name = 'Honey Manga';
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
-  version = '1.0.1';
+  version = '1.0.2';
   async popularNovels(
     pageNo: number,
     {
@@ -36,7 +36,25 @@ class HoneyManga implements Plugin.PluginBase {
   }
 
   async searchNovels(searchTerm: string): Promise<Plugin.NovelItem[]> {
-    return [];
+    const url = `${this.site}/search?query=${encodeURIComponent(searchTerm)}`;
+    const result = await fetchApi(url);
+    const body = await result.text();
+    const $ = parseHTML(body);
+
+    const novels: Plugin.NovelItem[] = [];
+
+    $('a.flex.flex-col').each((i, el) => {
+      const novelItem: Plugin.NovelItem = {
+        name: $(el).find('p.text-sm').text().trim(),
+        path: $(el).attr('href') || '',
+        cover: $(el).find('img').attr('src'),
+      };
+      if (novelItem.name && novelItem.path) {
+        novels.push(novelItem);
+      }
+    });
+
+    return novels;
   }
 
   async parseNovel(novelPath: string): Promise<Plugin.SourceNovel> {
