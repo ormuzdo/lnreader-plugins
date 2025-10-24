@@ -1,4 +1,5 @@
-import { fetchApi } from '@libs/fetch';
+import { fetchApi, fetchText } from '@libs/fetch';
+import { load as loadCheerio } from 'cheerio';
 import { Plugin } from '@/types/plugin';
 import { Filters } from '@libs/filterInputs';
 
@@ -8,7 +9,7 @@ class HoneyManga implements Plugin.PluginBase {
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
-  version = '2.0.2';
+  version = '2.1.0';
 
   async popularNovels(
     pageNo: number,
@@ -171,7 +172,7 @@ class HoneyManga implements Plugin.PluginBase {
 
           chapters.push({
             name: chapterName,
-            path: `/book/${novelId}/chapter/${chapter.id}`,
+            path: `/read/${novelId}/${chapter.id}`,
             releaseTime: chapter.lastUpdated,
           });
         });
@@ -191,43 +192,71 @@ class HoneyManga implements Plugin.PluginBase {
   }
 
   async parseChapter(chapterPath: string): Promise<string> {
-    // chapterPath має формат /book/{novelId}/chapter/{chapterId}
+    // chapterPath має формат /read/{novelId}/{chapterId}
+    const url = `${this.site}${chapterPath}`;
+
+    console.log('[HoneyManga Debug] Fetching chapter from:', url);
+
+    // Спробуємо API спочатку
     const pathParts = chapterPath.split('/');
-    const novelId = pathParts[2]; // /book/{novelId}/chapter/{chapterId}
-    const chapterId = pathParts[4];
+    const novelId = pathParts[2];
+    const chapterId = pathParts[3];
 
-    const url = `${this.apiUrl}/v2/chapter/frames/${novelId}/${chapterId}`;
+    const apiUrl = `${this.apiUrl}/v2/chapter/frames/${novelId}/${chapterId}`;
+    console.log('[HoneyManga Debug] Trying API:', apiUrl);
 
-    console.log('[HoneyManga Debug] chapterPath:', chapterPath);
-    console.log('[HoneyManga Debug] novelId:', novelId);
-    console.log('[HoneyManga Debug] chapterId:', chapterId);
-    console.log('[HoneyManga Debug] API URL:', url);
+    try {
+      const result = await fetchApi(apiUrl);
+      const data = await result.json();
 
-    const result = await fetchApi(url);
-    const data = await result.json();
+      if (data && Array.isArray(data) && data.length > 0) {
+        console.log('[HoneyManga Debug] API success! Frames:', data.length);
+        let chapterContent = '';
 
-    console.log('[HoneyManga Debug] API response status:', result.status);
-    console.log(
-      '[HoneyManga Debug] API response data:',
-      JSON.stringify(data).substring(0, 200),
-    );
+        data.forEach((frame: any) => {
+          if (frame.text) {
+            chapterContent += `<p>${frame.text}</p>\n`;
+          }
+          if (frame.imageUrl) {
+            chapterContent += `<img src="${frame.imageUrl}" />\n`;
+          }
+        });
 
-    // API повертає масив frames, кожен frame може містити text або imageUrl
+        if (chapterContent) {
+          return chapterContent;
+        }
+      }
+    } catch (error) {
+      console.log('[HoneyManga Debug] API failed, trying HTML parsing');
+    }
+
+    // Якщо API не спрацював, парсимо HTML
+    const html = await fetchText(url);
+    const $ = loadCheerio(html);
+
+    console.log('[HoneyManga Debug] HTML length:', html.length);
+
+    // Шукаємо текстові блоки
     let chapterContent = '';
 
-    if (data && Array.isArray(data)) {
-      console.log('[HoneyManga Debug] Frames count:', data.length);
-      data.forEach((frame: any) => {
-        if (frame.text) {
-          chapterContent += `<p>${frame.text}</p>\n`;
-        }
-        // Якщо є зображення, можна додати їх теж
-        if (frame.imageUrl) {
-          chapterContent += `<img src="${frame.imageUrl}" />\n`;
-        }
-      });
-    } else {
-      console.log('[HoneyManga Debug] Data is not an array:', typeof data);
+    // Спроба 1: div з класом py-[6px]
+    $('div[class*="py-[6px]"]').each((i, elem) => {
+      const text = $(elem).text().trim();
+      if (text) {
+        chapterContent += `<p>${text}</p>\n`;
+      }
+    });
+
+    // Спроба 2: Пошук в Next.js data
+    if (!chapterContent) {
+      const scriptContent = $('#__NEXT_DATA__').html();
+      if (scriptContent) {
+        console.log(
+          '[HoneyManga Debug] Found __NEXT_DATA__, length:',
+          scriptContent.length,
+        );
+        // Тут можна спробувати розпарсити JSON якщо є дані
+      }
     }
 
     if (chapterContent) {
@@ -235,7 +264,7 @@ class HoneyManga implements Plugin.PluginBase {
     }
 
     throw new Error(
-      `Не вдалося завантажити розділ: контент відсутній. URL: ${url}, Response: ${JSON.stringify(data)}`,
+      `Не вдалося завантажити розділ. URL: ${url}, HTML length: ${html.length}`,
     );
   }
 
