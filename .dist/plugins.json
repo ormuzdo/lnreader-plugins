@@ -2148,7 +2148,7 @@
 		"name": "Honey Manga",
 		"site": "https://honey-manga.com.ua",
 		"lang": "Українська",
-		"version": "1.0.3",
+		"version": "2.0.0",
 		"url": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/.js/plugins/ukrainian/HoneyManga.js",
 		"iconUrl": "https://raw.githubusercontent.com/ormuzdo/lnreader-plugins/master/public/static/src/ukrainian/honeymanga/icon.png"
 	},
