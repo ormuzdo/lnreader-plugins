@@ -8,7 +8,7 @@ class HoneyManga implements Plugin.PluginBase {
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
-  version = '2.0.1';
+  version = '2.0.2';
 
   async popularNovels(
     pageNo: number,
@@ -198,13 +198,25 @@ class HoneyManga implements Plugin.PluginBase {
 
     const url = `${this.apiUrl}/v2/chapter/frames/${novelId}/${chapterId}`;
 
+    console.log('[HoneyManga Debug] chapterPath:', chapterPath);
+    console.log('[HoneyManga Debug] novelId:', novelId);
+    console.log('[HoneyManga Debug] chapterId:', chapterId);
+    console.log('[HoneyManga Debug] API URL:', url);
+
     const result = await fetchApi(url);
     const data = await result.json();
+
+    console.log('[HoneyManga Debug] API response status:', result.status);
+    console.log(
+      '[HoneyManga Debug] API response data:',
+      JSON.stringify(data).substring(0, 200),
+    );
 
     // API повертає масив frames, кожен frame може містити text або imageUrl
     let chapterContent = '';
 
     if (data && Array.isArray(data)) {
+      console.log('[HoneyManga Debug] Frames count:', data.length);
       data.forEach((frame: any) => {
         if (frame.text) {
           chapterContent += `<p>${frame.text}</p>\n`;
@@ -214,13 +226,17 @@ class HoneyManga implements Plugin.PluginBase {
           chapterContent += `<img src="${frame.imageUrl}" />\n`;
         }
       });
+    } else {
+      console.log('[HoneyManga Debug] Data is not an array:', typeof data);
     }
 
     if (chapterContent) {
       return chapterContent;
     }
 
-    throw new Error('Не вдалося завантажити розділ: контент відсутній.');
+    throw new Error(
+      `Не вдалося завантажити розділ: контент відсутній. URL: ${url}, Response: ${JSON.stringify(data)}`,
+    );
   }
 
   async fetchImage(url: string): Promise<Response> {
