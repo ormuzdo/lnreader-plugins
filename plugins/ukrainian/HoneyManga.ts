@@ -8,7 +8,7 @@ class HoneyManga implements Plugin.PluginBase {
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
-  version = '2.2.0';
+  version = '2.2.1';
 
   async popularNovels(
     pageNo: number,
@@ -123,7 +123,9 @@ class HoneyManga implements Plugin.PluginBase {
 
   async parseNovel(novelPath: string): Promise<Plugin.SourceNovel> {
     // novelPath має формат /book/{id}
+    console.log('[HoneyManga] parseNovel novelPath:', novelPath);
     const novelId = novelPath.replace('/book/', '');
+    console.log('[HoneyManga] parseNovel novelId:', novelId);
     const url = `${this.apiUrl}/manga/${novelId}`;
 
     const result = await fetchApi(url);
@@ -168,10 +170,18 @@ class HoneyManga implements Plugin.PluginBase {
       if (chaptersData.data && Array.isArray(chaptersData.data)) {
         chaptersData.data.forEach((chapter: any) => {
           const chapterName = `Том ${chapter.volume} Розділ ${chapter.chapterNum}${chapter.subChapterNum ? `.${chapter.subChapterNum}` : ''}: ${chapter.title}`;
+          const chapterPath = `/read/${novelId}/${chapter.id}`;
+
+          console.log(
+            '[HoneyManga] Chapter:',
+            chapterName,
+            'path:',
+            chapterPath,
+          );
 
           chapters.push({
             name: chapterName,
-            path: `/read/${novelId}/${chapter.id}`,
+            path: chapterPath,
             releaseTime: chapter.lastUpdated,
           });
         });
@@ -192,13 +202,21 @@ class HoneyManga implements Plugin.PluginBase {
 
   async parseChapter(chapterPath: string): Promise<string> {
     // chapterPath має формат /read/{novelId}/{chapterId}
+    console.log('[HoneyManga] chapterPath:', chapterPath);
+
     const pathParts = chapterPath.split('/');
+    console.log('[HoneyManga] pathParts:', JSON.stringify(pathParts));
+
     const novelId = pathParts[2];
     const chapterId = pathParts[3];
+
+    console.log('[HoneyManga] novelId:', novelId);
+    console.log('[HoneyManga] chapterId:', chapterId);
 
     // API формат: /novel/{chapterId}/chapter/{novelId}/data
     // Зверніть увагу: порядок ID навпаки!
     const apiUrl = `${this.apiUrl}/novel/${chapterId}/chapter/${novelId}/data`;
+    console.log('[HoneyManga] API URL:', apiUrl);
 
     const result = await fetchApi(apiUrl);
     const data = await result.json();
