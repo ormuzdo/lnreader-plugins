@@ -8,7 +8,7 @@ class HoneyManga implements Plugin.PluginBase {
   name = 'Honey Manga';
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
-  version = '1.0.2';
+  version = '1.0.3';
   async popularNovels(
     pageNo: number,
     {
@@ -16,7 +16,8 @@ class HoneyManga implements Plugin.PluginBase {
       showLatestNovels,
     }: Plugin.PopularNovelsOptions<typeof this.filters>,
   ): Promise<Plugin.NovelItem[]> {
-    const url = `${this.site}/comics?page=${pageNo}`;
+    // Фільтр для новел: type=7 (Новела)
+    const url = `${this.site}/comics?page=${pageNo}&type=7`;
     const result = await fetchApi(url);
     const body = await result.text();
     const $ = parseHTML(body);
@@ -29,14 +30,17 @@ class HoneyManga implements Plugin.PluginBase {
         path: $(el).attr('href') || '',
         cover: $(el).find('img').attr('src'),
       };
-      novels.push(novelItem);
+      if (novelItem.name && novelItem.path) {
+        novels.push(novelItem);
+      }
     });
 
     return novels;
   }
 
   async searchNovels(searchTerm: string): Promise<Plugin.NovelItem[]> {
-    const url = `${this.site}/search?query=${encodeURIComponent(searchTerm)}`;
+    // Пошук тільки серед новел: type=7
+    const url = `${this.site}/search?query=${encodeURIComponent(searchTerm)}&type=7`;
     const result = await fetchApi(url);
     const body = await result.text();
     const $ = parseHTML(body);
