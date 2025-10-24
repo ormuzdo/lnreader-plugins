@@ -1,5 +1,4 @@
-import { fetchApi, fetchText } from '@libs/fetch';
-import { load as loadCheerio } from 'cheerio';
+import { fetchApi } from '@libs/fetch';
 import { Plugin } from '@/types/plugin';
 import { Filters } from '@libs/filterInputs';
 
@@ -9,7 +8,7 @@ class HoneyManga implements Plugin.PluginBase {
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
-  version = '2.1.0';
+  version = '2.2.0';
 
   async popularNovels(
     pageNo: number,
@@ -193,70 +192,56 @@ class HoneyManga implements Plugin.PluginBase {
 
   async parseChapter(chapterPath: string): Promise<string> {
     // chapterPath має формат /read/{novelId}/{chapterId}
-    const url = `${this.site}${chapterPath}`;
-
-    console.log('[HoneyManga Debug] Fetching chapter from:', url);
-
-    // Спробуємо API спочатку
     const pathParts = chapterPath.split('/');
     const novelId = pathParts[2];
     const chapterId = pathParts[3];
 
-    const apiUrl = `${this.apiUrl}/v2/chapter/frames/${novelId}/${chapterId}`;
-    console.log('[HoneyManga Debug] Trying API:', apiUrl);
+    // API формат: /novel/{chapterId}/chapter/{novelId}/data
+    // Зверніть увагу: порядок ID навпаки!
+    const apiUrl = `${this.apiUrl}/novel/${chapterId}/chapter/${novelId}/data`;
 
-    try {
-      const result = await fetchApi(apiUrl);
-      const data = await result.json();
+    const result = await fetchApi(apiUrl);
+    const data = await result.json();
 
-      if (data && Array.isArray(data) && data.length > 0) {
-        console.log('[HoneyManga Debug] API success! Frames:', data.length);
-        let chapterContent = '';
-
-        data.forEach((frame: any) => {
-          if (frame.text) {
-            chapterContent += `<p>${frame.text}</p>\n`;
-          }
-          if (frame.imageUrl) {
-            chapterContent += `<img src="${frame.imageUrl}" />\n`;
-          }
-        });
-
-        if (chapterContent) {
-          return chapterContent;
-        }
-      }
-    } catch (error) {
-      console.log('[HoneyManga Debug] API failed, trying HTML parsing');
-    }
-
-    // Якщо API не спрацював, парсимо HTML
-    const html = await fetchText(url);
-    const $ = loadCheerio(html);
-
-    console.log('[HoneyManga Debug] HTML length:', html.length);
-
-    // Шукаємо текстові блоки
     let chapterContent = '';
 
-    // Спроба 1: div з класом py-[6px]
-    $('div[class*="py-[6px]"]').each((i, elem) => {
-      const text = $(elem).text().trim();
-      if (text) {
-        chapterContent += `<p>${text}</p>\n`;
-      }
-    });
-
-    // Спроба 2: Пошук в Next.js data
-    if (!chapterContent) {
-      const scriptContent = $('#__NEXT_DATA__').html();
-      if (scriptContent) {
-        console.log(
-          '[HoneyManga Debug] Found __NEXT_DATA__, length:',
-          scriptContent.length,
-        );
-        // Тут можна спробувати розпарсити JSON якщо є дані
-      }
+    if (data && Array.isArray(data)) {
+      // API повертає масив блоків у форматі BlockNote
+      data.forEach((block: any) => {
+        if (block.type === 'paragraph' && block.content) {
+          // Витягуємо текст з content масиву
+          block.content.forEach((contentItem: any) => {
+            if (contentItem.type === 'text' && contentItem.text) {
+              const text = contentItem.text;
+              // Додаємо стилі якщо є
+              let styledText = text;
+              if (contentItem.styles) {
+                if (contentItem.styles.bold) {
+                  styledText = `<strong>${styledText}</strong>`;
+                }
+                if (contentItem.styles.italic) {
+                  styledText = `<em>${styledText}</em>`;
+                }
+              }
+              chapterContent += styledText;
+            }
+          });
+          chapterContent += '<br/>\n';
+        } else if (block.type === 'heading' && block.content) {
+          // Заголовки
+          let headingText = '';
+          block.content.forEach((contentItem: any) => {
+            if (contentItem.type === 'text' && contentItem.text) {
+              headingText += contentItem.text;
+            }
+          });
+          const level = block.props?.level || 1;
+          chapterContent += `<h${level}>${headingText}</h${level}>\n`;
+        } else if (block.type === 'image' && block.props?.url) {
+          // Зображення
+          chapterContent += `<img src="${block.props.url}" />\n`;
+        }
+      });
     }
 
     if (chapterContent) {
@@ -264,7 +249,7 @@ class HoneyManga implements Plugin.PluginBase {
     }
 
     throw new Error(
-      `Не вдалося завантажити розділ. URL: ${url}, HTML length: ${html.length}`,
+      `Не вдалося завантажити розділ. API: ${apiUrl}, Response length: ${JSON.stringify(data).length}`,
     );
   }
 
