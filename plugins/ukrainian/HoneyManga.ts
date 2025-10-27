@@ -8,7 +8,7 @@ class HoneyManga implements Plugin.PluginBase {
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
-  version = '2.4.0';
+  version = '2.5.0';
 
   async popularNovels(
     pageNo: number,
@@ -208,33 +208,36 @@ class HoneyManga implements Plugin.PluginBase {
     if (data && Array.isArray(data)) {
       // API повертає масив блоків у форматі BlockNote
       data.forEach((block: any) => {
-        if (block.type === 'paragraph' && block.content) {
+        if (block.type === 'paragraph') {
           // Витягуємо текст з content масиву
-          block.content.forEach((contentItem: any) => {
-            if (contentItem.type === 'text' && contentItem.text) {
-              const text = contentItem.text;
-              // Додаємо стилі якщо є
-              let styledText = text;
-              if (contentItem.styles) {
-                if (contentItem.styles.bold) {
-                  styledText = `<strong>${styledText}</strong>`;
+          if (block.content && Array.isArray(block.content)) {
+            block.content.forEach((contentItem: any) => {
+              if (contentItem.type === 'text' && contentItem.text) {
+                let text = contentItem.text;
+                // Додаємо стилі якщо є
+                if (contentItem.styles) {
+                  if (contentItem.styles.bold) {
+                    text = `<strong>${text}</strong>`;
+                  }
+                  if (contentItem.styles.italic) {
+                    text = `<em>${text}</em>`;
+                  }
                 }
-                if (contentItem.styles.italic) {
-                  styledText = `<em>${styledText}</em>`;
-                }
+                chapterContent += text;
               }
-              chapterContent += styledText;
-            }
-          });
-          chapterContent += '<br/>\n';
-        } else if (block.type === 'heading' && block.content) {
+            });
+          }
+          chapterContent += '<br/><br/>\n';
+        } else if (block.type === 'heading') {
           // Заголовки
           let headingText = '';
-          block.content.forEach((contentItem: any) => {
-            if (contentItem.type === 'text' && contentItem.text) {
-              headingText += contentItem.text;
-            }
-          });
+          if (block.content && Array.isArray(block.content)) {
+            block.content.forEach((contentItem: any) => {
+              if (contentItem.type === 'text' && contentItem.text) {
+                headingText += contentItem.text;
+              }
+            });
+          }
           const level = block.props?.level || 1;
           chapterContent += `<h${level}>${headingText}</h${level}>\n`;
         } else if (block.type === 'image' && block.props?.url) {
