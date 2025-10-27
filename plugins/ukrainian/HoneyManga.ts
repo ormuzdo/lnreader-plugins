@@ -8,7 +8,7 @@ class HoneyManga implements Plugin.PluginBase {
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
-  version = '3.0.0';
+  version = '3.1.0';
 
   async popularNovels(
     pageNo: number,
@@ -200,23 +200,8 @@ class HoneyManga implements Plugin.PluginBase {
     // Зверніть увагу: порядок ID навпаки!
     const apiUrl = `${this.apiUrl}/novel/${chapterId}/chapter/${novelId}/data`;
 
-    console.log('[HoneyManga v3.0] chapterPath:', chapterPath);
-    console.log('[HoneyManga v3.0] novelId:', novelId);
-    console.log('[HoneyManga v3.0] chapterId:', chapterId);
-    console.log('[HoneyManga v3.0] Final API URL:', apiUrl);
-
     const result = await fetchApi(apiUrl);
     const data = await result.json();
-
-    console.log('[HoneyManga v3.0] Response status:', result.status);
-    console.log(
-      '[HoneyManga v3.0] Data type:',
-      Array.isArray(data) ? 'Array' : typeof data,
-    );
-    console.log(
-      '[HoneyManga v3.0] Data length:',
-      Array.isArray(data) ? data.length : 'N/A',
-    );
 
     let chapterContent = '';
 
@@ -266,9 +251,21 @@ class HoneyManga implements Plugin.PluginBase {
       return chapterContent;
     }
 
-    throw new Error(
-      `Не вдалося завантажити розділ. API: ${apiUrl}, Response length: ${JSON.stringify(data).length}`,
-    );
+    // Діагностична інформація в помилці
+    const diagnosticInfo = `
+[ДІАГНОСТИКА v3.0.1]
+chapterPath: ${chapterPath}
+pathParts: [${pathParts.join(', ')}]
+novelId: ${novelId}
+chapterId: ${chapterId}
+API URL: ${apiUrl}
+Response status: ${result.status}
+Data is Array: ${Array.isArray(data)}
+Data length: ${Array.isArray(data) ? data.length : 'N/A'}
+Response preview: ${JSON.stringify(data).substring(0, 200)}
+    `.trim();
+
+    throw new Error(`Не вдалося завантажити розділ.\n\n${diagnosticInfo}`);
   }
 
   async fetchImage(url: string): Promise<Response> {
