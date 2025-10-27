@@ -8,7 +8,7 @@ class HoneyManga implements Plugin.PluginBase {
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
-  version = '3.1.0';
+  version = '3.2.0';
 
   async popularNovels(
     pageNo: number,
@@ -169,9 +169,10 @@ class HoneyManga implements Plugin.PluginBase {
         chaptersData.data.forEach((chapter: any) => {
           const chapterName = `Том ${chapter.volume} Розділ ${chapter.chapterNum}${chapter.subChapterNum ? `.${chapter.subChapterNum}` : ''}: ${chapter.title}`;
 
+          // Правильний порядок: /read/{chapterId}/{novelId}
           chapters.push({
             name: chapterName,
-            path: `/read/${novelId}/${chapter.id}`,
+            path: `/read/${chapter.id}/${novelId}`,
             releaseTime: chapter.lastUpdated,
           });
         });
@@ -191,10 +192,10 @@ class HoneyManga implements Plugin.PluginBase {
   }
 
   async parseChapter(chapterPath: string): Promise<string> {
-    // chapterPath має формат /read/{novelId}/{chapterId}
+    // chapterPath має формат /read/{chapterId}/{novelId}
     const pathParts = chapterPath.split('/');
-    const novelId = pathParts[2];
-    const chapterId = pathParts[3];
+    const chapterId = pathParts[2]; // перший ID - це chapterId
+    const novelId = pathParts[3]; // другий ID - це novelId
 
     // API формат: /novel/{chapterId}/chapter/{novelId}/data
     // Зверніть увагу: порядок ID навпаки!
