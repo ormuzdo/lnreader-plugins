@@ -9,7 +9,7 @@ class HoneyManga implements Plugin.PluginBase {
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
   cdnUrl = 'https://hmvolumestorage.b-cdn.net/public-resources';
-  version = '3.4.0';
+  version = '3.4.1';
 
   async popularNovels(
     pageNo: number,
@@ -196,9 +196,9 @@ class HoneyManga implements Plugin.PluginBase {
     const chapterId = pathParts[2]; // перший ID - це chapterId
     const novelId = pathParts[3]; // другий ID - це novelId
 
-    // API формат: /novel/{chapterId}/chapter/{novelId}/data
-    // Зверніть увагу: порядок ID навпаки!
-    const apiUrl = `${this.apiUrl}/novel/${chapterId}/chapter/${novelId}/data`;
+    // API формат: /novel/{novelId}/chapter/{chapterId}/data
+    // Порядок ID: novelId → chapterId (поміняли місцями!)
+    const apiUrl = `${this.apiUrl}/novel/${novelId}/chapter/${chapterId}/data`;
 
     const result = await fetchApi(apiUrl);
     const data = await result.json();
