@@ -8,7 +8,7 @@ class HoneyManga implements Plugin.PluginBase {
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
-  version = '2.5.0';
+  version = '3.0.0';
 
   async popularNovels(
     pageNo: number,
@@ -200,8 +200,23 @@ class HoneyManga implements Plugin.PluginBase {
     // Зверніть увагу: порядок ID навпаки!
     const apiUrl = `${this.apiUrl}/novel/${chapterId}/chapter/${novelId}/data`;
 
+    console.log('[HoneyManga v3.0] chapterPath:', chapterPath);
+    console.log('[HoneyManga v3.0] novelId:', novelId);
+    console.log('[HoneyManga v3.0] chapterId:', chapterId);
+    console.log('[HoneyManga v3.0] Final API URL:', apiUrl);
+
     const result = await fetchApi(apiUrl);
     const data = await result.json();
+
+    console.log('[HoneyManga v3.0] Response status:', result.status);
+    console.log(
+      '[HoneyManga v3.0] Data type:',
+      Array.isArray(data) ? 'Array' : typeof data,
+    );
+    console.log(
+      '[HoneyManga v3.0] Data length:',
+      Array.isArray(data) ? data.length : 'N/A',
+    );
 
     let chapterContent = '';
 
