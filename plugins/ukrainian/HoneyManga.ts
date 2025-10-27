@@ -9,7 +9,7 @@ class HoneyManga implements Plugin.PluginBase {
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
   cdnUrl = 'https://hmvolumestorage.b-cdn.net/public-resources';
-  version = '3.3.0';
+  version = '3.4.0';
 
   async popularNovels(
     pageNo: number,
@@ -242,7 +242,10 @@ class HoneyManga implements Plugin.PluginBase {
           chapterContent += `<h${level}>${headingText}</h${level}>\n`;
         } else if (block.type === 'image' && block.props?.url) {
           // Зображення
-          chapterContent += `<img src="${block.props.url}" />\n`;
+          const imgUrl = block.props.url.startsWith('http')
+            ? block.props.url
+            : `${this.cdnUrl}/${block.props.url}`;
+          chapterContent += `<img src="${imgUrl}" />\n`;
         }
       });
     }
