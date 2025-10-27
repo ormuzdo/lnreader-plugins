@@ -8,7 +8,8 @@ class HoneyManga implements Plugin.PluginBase {
   icon = 'src/ukrainian/honeymanga/icon.png';
   site = 'https://honey-manga.com.ua';
   apiUrl = 'https://data.api.honey-manga.com.ua';
-  version = '3.2.0';
+  cdnUrl = 'https://hmvolumestorage.b-cdn.net/public-resources';
+  version = '3.3.0';
 
   async popularNovels(
     pageNo: number,
@@ -57,7 +58,7 @@ class HoneyManga implements Plugin.PluginBase {
           name: item.title,
           path: `/book/${item.id}`,
           cover: item.posterUrl
-            ? `https://img.honey-manga.com.ua/cover/${item.posterUrl}`
+            ? `${this.cdnUrl}/${item.posterUrl}`
             : undefined,
         });
       });
@@ -112,7 +113,7 @@ class HoneyManga implements Plugin.PluginBase {
           name: item.title,
           path: `/book/${item.id}`,
           cover: item.posterUrl
-            ? `https://img.honey-manga.com.ua/cover/${item.posterUrl}`
+            ? `${this.cdnUrl}/${item.posterUrl}`
             : undefined,
         });
       });
@@ -132,9 +133,7 @@ class HoneyManga implements Plugin.PluginBase {
     const novel: Plugin.SourceNovel = {
       path: novelPath,
       name: data.title || '',
-      cover: data.posterUrl
-        ? `https://img.honey-manga.com.ua/cover/${data.posterUrl}`
-        : undefined,
+      cover: data.posterUrl ? `${this.cdnUrl}/${data.posterUrl}` : undefined,
       summary: data.description || '',
       author: data.authors?.join(', ') || '',
       genres: data.genres?.join(', '),
